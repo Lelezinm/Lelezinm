@@ -1,12 +1,10 @@
-- 👋 Hi, I’m @Lelezinm
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  (☞ﾟヮﾟ)☞BOAS VINDAS AO MEU PERFIl ☜(ﾟヮﾟ☜)❤
 
-<!---
-Lelezinm/Lelezinm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+      Estou estudando na alura (¬_¬ )
+
+      Estou aprendendo a usar a linguagem JavaScript (T_T)
+
+      Uso essa area apenas para  minhas organizações e compartilhamento do meus projetos.    
+
+
+      é isso 😉༼ つ ◕_◕ ༽つ❤
